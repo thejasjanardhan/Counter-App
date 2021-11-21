@@ -7,6 +7,10 @@
   align-items: center;
   /* background-color: rgb(38, 36, 168); */
 }
+.counters {
+  display: flex;
+  align-items: center;
+}
 
 .counter__item {
   display: flex;

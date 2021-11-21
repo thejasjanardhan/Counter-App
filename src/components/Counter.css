@@ -7,10 +7,6 @@
   align-items: center;
   /* background-color: rgb(38, 36, 168); */
 }
-.counters {
-  display: flex;
-  align-items: center;
-}
 
 .counter__item {
   display: flex;
@@ -51,6 +47,7 @@
   height: 25px;
   width: 30px;
   padding: 3px 2px;
+  margin-top: 1px;
 }
 
 .btn2:hover {
